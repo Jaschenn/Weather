@@ -8,4 +8,5 @@ target 'Weather' do
   # Pods for Weather
 pod 'SVProgressHUD'
 pod 'Alamofire'
+pod 'SwiftyJSON'
 end
